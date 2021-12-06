@@ -21,3 +21,5 @@ https://www.statisticshowto.com/probability-and-statistics/correlation-coefficie
 Correlation in the financcial world:  
 https://www.investopedia.com/terms/c/correlation.asp  
 
+Correlation calculation sample Python code for RSI:  
+https://github.com/Megapro-com/Technical-Analysis-Data-and-Algorithms/blob/main/correlation_study.py

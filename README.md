@@ -1,5 +1,4 @@
-# data-analysis
-Data Analysis
+# Data Analysis
 
 ### Jupyter Notebook:  
 https://jupyter.org/  

@@ -56,3 +56,11 @@ https://www.scribbr.com/statistics/standard-deviation/
 
 Standard Deviation Indicator:  
 https://www.fidelity.com/learning-center/trading-investing/technical-analysis/technical-indicator-guide/standard-deviation
+
+stdev() method in Python statistics module：  
+https://www.geeksforgeeks.org/python-statistics-stdev/
+
+Machine Learning - Standard Deviation：  
+https://www.w3schools.com/python/python_ml_standard_deviation.asp
+
+

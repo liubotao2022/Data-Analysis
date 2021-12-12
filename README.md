@@ -9,6 +9,10 @@ https://pandas.pydata.org/
 pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
 built on top of the Python programming language.
 
+### Tradingview:  
+https://www.tradingview.com/  
+TradingView is a website where experts share analysis on prices of Forex, Stocks, Cryptocurrencies among other financial products.
+
 ### Data Correlation:  
 
 Pearson's Correlation, Clearly Explained!!!  
@@ -23,6 +27,13 @@ https://www.investopedia.com/terms/c/correlation.asp
 Correlation calculation sample Python code for RSI:  
 https://github.com/Megapro-com/Data-Analysis/blob/main/correlation_study.py
 
-### Tradingview:  
-https://www.tradingview.com/  
-TradingView is a website where experts share analysis on prices of Forex, Stocks, Cryptocurrencies among other financial products.
+### Normal distribution:
+https://en.wikipedia.org/wiki/Normal_distribution
+
+### standard deviation:
+
+Understanding and calculating standard deviation:
+https://www.scribbr.com/statistics/standard-deviation/
+
+Standard Deviation Indicator:
+https://www.fidelity.com/learning-center/trading-investing/technical-analysis/technical-indicator-guide/standard-deviation

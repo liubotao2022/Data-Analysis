@@ -10,14 +10,18 @@ Free charts, tools, and social networking for traders and investors. Chart your 
 
 ### Python:  
 
-Python pandas：
-https://pandas.pydata.org/  
+Python pandas：  
+https://pandas.pydata.org/   
 pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
 built on top of the Python programming language.
 
 Python NumPy module：  
 https://www.askpython.com/python-modules/numpy/python-numpy-module  
 Python NumPy module ensembles a variety of functions to perform different scientific and mathematical operations at an ease.
+
+Python Matplotlib Tutorial：  
+https://www.askpython.com/python-modules/matplotlib/python-matplotlib  
+Python Matplotlib is a library which basically serves the purpose of Data Visualization. The building blocks of Matplotlib library is 2-D NumPy Arrays.
 
 ### Data Correlation:  
 

@@ -27,10 +27,12 @@ https://www.investopedia.com/terms/c/correlation.asp
 Correlation calculation sample Python code for RSI:  
 https://github.com/Megapro-com/Data-Analysis/blob/main/correlation_study.py
 
-### Normal distribution:
-https://en.wikipedia.org/wiki/Normal_distribution
+### Normal Distribution:
 
-### standard deviation:
+https://en.wikipedia.org/wiki/Normal_distribution  
+https://www.investopedia.com/terms/n/normaldistribution.asp
+
+### Standard Deviation:
 
 Understanding and calculating standard deviation:
 https://www.scribbr.com/statistics/standard-deviation/

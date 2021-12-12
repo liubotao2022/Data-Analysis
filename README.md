@@ -34,6 +34,8 @@ https://www.investopedia.com/terms/n/normaldistribution.asp
 
 ### Standard Deviation:
 
+For a normal distribution, 68% of the observations are within +/- one standard deviation of the mean, 95% are within +/- two standard deviations, and 99.7% are within +- three standard deviations.
+
 Understanding and calculating standard deviation:
 https://www.scribbr.com/statistics/standard-deviation/
 

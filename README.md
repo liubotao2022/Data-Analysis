@@ -32,6 +32,9 @@ https://github.com/Megapro-com/Data-Analysis/blob/main/correlation_study.py
 https://en.wikipedia.org/wiki/Normal_distribution  
 https://www.investopedia.com/terms/n/normaldistribution.asp
 
+Normal Distribution in Python:  
+https://www.askpython.com/python/normal-distribution
+
 ### Standard Deviation:
 
 For a normal distribution, 68% of the observations are within +/- one standard deviation of the mean,   

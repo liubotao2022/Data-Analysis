@@ -4,14 +4,20 @@
 https://jupyter.org/  
 Jupyter Notebook is a free, open source web application that can be run in a web browser. It allows developers to create reports with data and visualizations from live code. The system supports more than 40 programming languages. Jupyter Notebook allows developers to make use of the wide range of Python packages for analytics and visualizations. 
 
-### Python pandas:  
+### Tradingview:  
+https://www.tradingview.com/  
+Free charts, tools, and social networking for traders and investors. Chart your favorite assets including stocks, cryptocurrencies, and forex from anywhere .
+
+### Python:  
+
+Python pandas：
 https://pandas.pydata.org/  
 pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
 built on top of the Python programming language.
 
-### Tradingview:  
-https://www.tradingview.com/  
-TradingView is a website where experts share analysis on prices of Forex, Stocks, Cryptocurrencies among other financial products.
+Python NumPy module：  
+https://www.askpython.com/python-modules/numpy/python-numpy-module  
+Python NumPy module ensembles a variety of functions to perform different scientific and mathematical operations at an ease.
 
 ### Data Correlation:  
 

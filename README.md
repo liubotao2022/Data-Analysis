@@ -37,6 +37,11 @@ https://www.investopedia.com/terms/c/correlation.asp
 Correlation calculation in Python:  
 https://github.com/Megapro-com/Data-Analysis/blob/main/correlation_study.py
 
+### Mean, Median, Mode:
+
+Mean, Median, Mode: What They Are, How to Find Them:
+https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/mean-median-mode/
+
 ### Normal Distribution:
 
 https://en.wikipedia.org/wiki/Normal_distribution  

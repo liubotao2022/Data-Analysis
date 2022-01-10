@@ -39,7 +39,7 @@ https://github.com/Megapro-com/Data-Analysis/blob/main/correlation_study.py
 
 ### Mean, Median, Mode:
 
-Mean, Median, Mode: What They Are, How to Find Them:
+Mean, Median, Mode: What They Are, How to Find Them:  
 https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/mean-median-mode/
 
 ### Normal Distribution:

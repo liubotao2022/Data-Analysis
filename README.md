@@ -68,7 +68,7 @@ Correlation in the financcial world:
 https://www.investopedia.com/terms/c/correlation.asp  
 
 Correlation calculation in Python:  
-https://github.com/Megapro-com/Data-Analysis/blob/main/correlation_study.py
+https://github.com/Megapro-com/Data-Analysis/blob/main/correlation_study.ipynb
 
 
 ### Linear Regression:

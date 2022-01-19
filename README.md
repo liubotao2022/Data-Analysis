@@ -23,19 +23,6 @@ Python Matplotlib Tutorial：
 https://www.askpython.com/python-modules/matplotlib/python-matplotlib  
 Python Matplotlib is a library which basically serves the purpose of Data Visualization. The building blocks of Matplotlib library is 2-D NumPy Arrays.
 
-### Data Correlation:  
-
-Pearson's Correlation, Clearly Explained!!!  
-https://www.youtube.com/watch?v=xZ_z8KWkhXE
-
-Correlation Coefficient: Simple Definition, Formula, Easy Steps:  
-https://www.statisticshowto.com/probability-and-statistics/correlation-coefficient-formula/
-
-Correlation in the financcial world:  
-https://www.investopedia.com/terms/c/correlation.asp  
-
-Correlation calculation in Python:  
-https://github.com/Megapro-com/Data-Analysis/blob/main/correlation_study.py
 
 ### Mean, Median, Mode:
 
@@ -69,3 +56,28 @@ Machine Learning - Standard Deviation：
 https://www.w3schools.com/python/python_ml_standard_deviation.asp
 
 
+### Data Correlation:  
+
+Pearson's Correlation, Clearly Explained!!!  
+https://www.youtube.com/watch?v=xZ_z8KWkhXE
+
+Correlation Coefficient: Simple Definition, Formula, Easy Steps:  
+https://www.statisticshowto.com/probability-and-statistics/correlation-coefficient-formula/
+
+Correlation in the financcial world:  
+https://www.investopedia.com/terms/c/correlation.asp  
+
+Correlation calculation in Python:  
+https://github.com/Megapro-com/Data-Analysis/blob/main/correlation_study.py
+
+
+### Linear Regression:
+
+An Introduction to Linear Regression Analysis:  
+https://www.youtube.com/watch?v=zPG4NjIkCjc
+
+Linear Regression for Machine Learning:  
+https://machinelearningmastery.com/linear-regression-for-machine-learning/
+
+Linear Regression Channel:  
+https://www.barchart.com/education/technical-indicators/linear_regression_channel

@@ -4,6 +4,9 @@
 https://jupyter.org/  
 Jupyter Notebook is a free, open source web application that can be run in a web browser. It allows developers to create reports with data and visualizations from live code. The system supports more than 40 programming languages. Jupyter Notebook allows developers to make use of the wide range of Python packages for analytics and visualizations. 
 
+##### How to download Python programs from GitHub and upload them to Jupyter Notebook:
+https://www.youtube.com/watch?v=ueBLx4kXVn8&t=3s
+
 ### Tradingview:  
 https://www.tradingview.com/  
 Free charts, tools, and social networking for traders and investors. Chart your favorite assets including stocks, cryptocurrencies, and forex from anywhere .

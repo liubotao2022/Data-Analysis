@@ -26,6 +26,8 @@ Python Matplotlib Tutorial：
 https://www.askpython.com/python-modules/matplotlib/python-matplotlib  
 Python Matplotlib is a library which basically serves the purpose of Data Visualization. The building blocks of Matplotlib library is 2-D NumPy Arrays.
 
+Jupyter Notebook Tutorial for Beginners with Python:  
+https://www.youtube.com/watch?v=2WL-XTl2QYI
 
 ### Mean, Median, Mode:
 

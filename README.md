@@ -69,7 +69,7 @@ https://www.youtube.com/watch?v=xZ_z8KWkhXE
 Correlation Coefficient: Simple Definition, Formula, Easy Steps:  
 https://www.statisticshowto.com/probability-and-statistics/correlation-coefficient-formula/
 
-Correlation in the financcial world:  
+Correlation in the financial world:  
 https://www.investopedia.com/terms/c/correlation.asp  
 
 Correlation calculation in Python:  
